@@ -1,0 +1,1 @@
+Offers commands defined in source/random.talon for generating random characters.
